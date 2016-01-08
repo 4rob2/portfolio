@@ -1,0 +1,14 @@
+
+body {background-color: #abcdef}
+
+.iconbar {color: #FFFFFF;}
+.name {
+  text-align: center;
+  text-size: 100px;
+  }
+
+.photo {float: center;}
+
+.container {position:center-block;}
+
+.footer {position: center;}
